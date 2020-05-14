@@ -2,10 +2,10 @@
 
 ### A Corona Tracking Mobile Application.
 
-Corona Shield is an open sourced Corona Tracking Mobile Application with Back-end made by <a href="https://github.com/aminejafur" target="_blank">Amine Jafur</a> using <a href="https://flutter.dev" target="_blank">Flutter</a>, <a href="https://www.php.net" target="_blank">PHP</a>, <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JS</a>.
+Corona Shield is an open sourced Corona Tracking Mobile Application with Back-end made by <a href="https://github.com/aminejafur" target="_blank">Amine Jafur</a> with :heart: using <a href="https://flutter.dev" target="_blank">Flutter</a>, <a href="https://www.php.net" target="_blank">PHP</a>, <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JS</a>.
 
 
-After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the government application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted in Casablanca, I decided to rebuilt the Application by my own from scratch and this is what I came up with.
+After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the governments application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted @Casablanca, I decided to rebuilt the Application from scratch and this is what I came up with.
 
 Feel free to open pull requests and play around!
 
@@ -49,7 +49,7 @@ That's All, Stay safe nd Stay #home
 
 ## Quick start
 
-git clone gitgit@github.com:aminejafur/corona-shield.git
+git clone https://github.com/aminejafur/corona-shield.git
 
 ## API 
 
@@ -61,7 +61,7 @@ git clone gitgit@github.com:aminejafur/corona-shield.git
 
 4 - In the same CMD type : php -S YOUR-IP:portShoosedForAPI -t public.
 
-5 - Make sure the API is working fine, visit : YOUR-IP:portShoosedForAPI/users OR YOUR-IP:portShoosedForAPI/collisions.
+5 - Make sure the API is working fine by visiting : YOUR-IP:portShoosedForAPI/users OR YOUR-IP:portShoosedForAPI/collisions.
 
 ## STATISTICS
 
@@ -107,4 +107,5 @@ HAPPY HACKING! ( N.b. That when working with local IP's The app and API should b
 
 - <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JS</a>
 
-### Star the repo :star: to support the project or follow me. Thanks! :heart:
+### Star the repo to support the project :star:
+### Feel free to fork, open pull requests and play around. Thanks! :heart:

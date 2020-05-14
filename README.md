@@ -37,6 +37,8 @@ That's All, Stay safe nd Stay #home
 
 ## Video
 
+[![Watch the video](https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/play.png)](https://github.com/aminejafur/corona-shield/blob/master/images/video.mp4?raw=true)
+
 ## Screenshots
 
 | Onboarding | Login | Mac Adresse | Main Screen | Radar |

@@ -5,7 +5,7 @@
 Corona Shield is an open sourced Corona Tracking Mobile Application with Back-end made by <a href="https://github.com/aminejafur" target="_blank">Amine Jafur</a> with :heart: using <a href="https://flutter.dev" target="_blank">Flutter</a>, <a href="https://www.php.net" target="_blank">PHP</a>, <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JS</a>.
 
 
-After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the governments application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted @Casablanca, I decided to rebuilt the Application from scratch and this is what I came up with.
+After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the government's  application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted @Casablanca, I decided to rebuilt the Application from scratch and this is what I came up with.
 
 ![Corona Shield Application](https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/mockup2.png)
 
@@ -31,7 +31,7 @@ First Verison of the APP : 1.0
 5. After the signing, you will be redirected to the main page of the application, where you will get the Statistics and your profile details as a card.
 6. If you are deciding to go out, Click on the tracking button in the right bottom corner and start tracking any collisions arround you.
 7. The app will keep tracking for any persones you meet out there and it will save them in your phone using a spesific encryption.
-8. Let's say as example that you got the covid-19 ( EXAMPLE xD ), the gouvernement will take your phone and it will be able to access the encrypted data from your phone using the List icon in the navigation Bar, they can also upload the decrypted data to ther servers to get stastics and find the persones you collided with in a very safe way.
+8. Let's say for example that you got the covid-19, the government will take your phone and it will be able to access the encrypted data from your phone using the List icon in the navigation Bar, they can also upload the decrypted data to ther servers to get stastics and find the persones you collided with in a very safe way.
 
 That's All, Stay safe nd Stay #home
 
@@ -91,7 +91,7 @@ Go to Server file or wherever you moved the "Server/statistics.php" File and ope
 
 2 - Build the APK depending on your IDE.
 
-HAPPY HACKING! ( N.b. That when working with local IP's The app and API should be in safe Network )
+HAPPY HACKING! ( N.B. When working with local IP's The app and API should be in safe Network )
 
 ## Licensing
 

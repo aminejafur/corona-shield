@@ -7,8 +7,6 @@ Corona Shield is an open sourced Corona Tracking Mobile Application with Back-en
 
 After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the governments application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted @Casablanca, I decided to rebuilt the Application from scratch and this is what I came up with.
 
-Feel free to open pull requests and play around!
-
 ![Corona Shield Application](https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/mockup2.png)
 
 ## Table of Contents

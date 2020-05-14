@@ -7,6 +7,8 @@ Corona Shield is an open sourced Corona Tracking Mobile Application with Back-en
 
 After watching <a href="https://www.youtube.com/watch?v=xTQoi30OiIc" target="_blank">Najib El Mokhtari's video</a> about the government application project for COVID-19 tracking. And, since I had built a similar bluetooth tracking application for the open-ended Hackathon 2015 by Screendy hosted in Casablanca, I decided to rebuilt the Application by my own from scratch and this is what I came up with.
 
+Feel free to open pull requests and play around!
+
 ![Corona Shield Application](https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/mockup2.png)
 
 ## Table of Contents
@@ -46,6 +48,8 @@ That's All, Stay safe nd Stay #home
 | <img src="https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/Oboarding.jpg" width="200" height="350"> | <img src="https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/Login.jpg" width="200" height="350"> | <img src="https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/Mac_adresse.jpg" width="200" height="350"> | <img src="https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/Main.jpg" width="200" height="350"> | <img src="https://raw.githubusercontent.com/aminejafur/corona-shield/master/images/Radar.jpg" width="200" height="350"> |
 
 ## Quick start
+
+git clone gitgit@github.com:aminejafur/corona-shield.git
 
 ## API 
 
@@ -89,7 +93,7 @@ Go to Server file or wherever you moved the "Server/statistics.php" File and ope
 
 2 - Build the APK depending on your IDE.
 
-HAPPY HACKING!
+HAPPY HACKING! ( N.b. That when working with local IP's The app and API should be in safe Network )
 
 ## Licensing
 
@@ -98,3 +102,9 @@ HAPPY HACKING!
 ## Useful Links
 
 - <a href="https://flutter.dev" target="_blank">Flutter</a>
+
+- <a href="https://www.php.net" target="_blank">PHP</a>
+
+- <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JS</a>
+
+### Star the repo :star: to support the project or follow me. Thanks! :heart:

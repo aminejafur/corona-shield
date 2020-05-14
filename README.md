@@ -1,4 +1,4 @@
-# Corona-Shield <a href="https://twitter.com/intent/tweet?url=" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# Corona-Shield <a href="https://twitter.com/intent/tweet?url=https://github.com/aminejafur/corona-shield" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ### A Corona Tracking Mobile Application.
 

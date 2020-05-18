@@ -55,7 +55,7 @@ git clone https://github.com/aminejafur/corona-shield.git
 
 2 - Go to the /api folder and rename the .env.example file to .env and fill it with the database info.
 
-3 - Open CMD, type : php dbseed.php ( you should get 2 messages, Starting Seed + seeded).
+3 - Open CMD, type : composer install, wait until the install is done then type : php dbseed.php ( you should get 2 messages, Starting Seed + seeded).
 
 4 - In the same CMD type : php -S YOUR-IP:portShoosedForAPI -t public.
 
